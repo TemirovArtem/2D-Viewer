@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e3381af1cced04ab976d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TestTask",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TestTask::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestTask-Debug-b00e717ec35f02be357c.json",
+					"name" : "TestTask",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestTask_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestTask_autogen-Debug-1deb9843c57e111d4723.json",
+					"name" : "TestTask_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestTask_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestTask_autogen_timestamp_deps-Debug-3cf3d50dead45b044867.json",
+					"name" : "TestTask_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt_projects/TestTask/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Qt_projects/TestTask"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

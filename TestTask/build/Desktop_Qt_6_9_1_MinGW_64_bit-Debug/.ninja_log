@@ -1,0 +1,14 @@
+# ninja log v6
+5	132	7747396272715151	C:/Qt_projects/TestTask/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	2b654f546dab8512
+133	1261	7747396284557475	TestTask_autogen/timestamp	b918a38a07a48223
+133	1261	7747396284557475	TestTask_autogen/mocs_compilation.cpp	b918a38a07a48223
+133	1261	7747396284557475	C:/Qt_projects/TestTask/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/TestTask_autogen/timestamp	b918a38a07a48223
+133	1261	7747396284557475	C:/Qt_projects/TestTask/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/TestTask_autogen/mocs_compilation.cpp	b918a38a07a48223
+1279	3153	7747396285453064	CMakeFiles/TestTask.dir/imageobject.cpp.obj	fb5eb376d8826d91
+1282	3491	7747396285483070	CMakeFiles/TestTask.dir/inspectorwidget.cpp.obj	5bb6c9bc9f6174e7
+1286	3522	7747396285513059	CMakeFiles/TestTask.dir/hierarchywidget.cpp.obj	fc63e1ad3cbcee4a
+1273	4161	7747396285392999	CMakeFiles/TestTask.dir/viewportwidget.cpp.obj	e32a20ae28d75a65
+1267	4422	7747396285334535	CMakeFiles/TestTask.dir/main.cpp.obj	5e4040aa17a3b80d
+1265	4515	7747396285304511	CMakeFiles/TestTask.dir/TestTask_autogen/mocs_compilation.cpp.obj	e523d0c73e8cf109
+1270	4534	7747396285359574	CMakeFiles/TestTask.dir/MainWindow.cpp.obj	9988e0909834ee86
+4535	4785	7747396318009476	TestTask.exe	2a13ed29c284c034
